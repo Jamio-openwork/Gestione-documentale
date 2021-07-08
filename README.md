@@ -1,5 +1,5 @@
-# Gestione-documentale
-La soluzione presenta le funzionalità base di una gestione documentale e può fungere come soluzione di partenza per costruire svariati processi documentali come ad esempio: creazione, modifica, versionamento e condivisione di documenti, metadatazione di informazioni base legate al documento, etc...
+# Gestione documentale
+La soluzione presenta le funzionalità base di una gestione documentale come ad esempio: creazione, modifica, versionamento e condivisione di documenti, metadatazione di informazioni base legate al documento, etc.., e può fungere come soluzione di partenza per costruire svariati processi documentali.
 
 PER MAGGIORI INFO: [Readme - Gestione Documentale.pdf](https://github.com/Jamio-openwork/Gestione-documentale/files/6784029/Readme.-.Gestione.Documentale.pdf)
 
